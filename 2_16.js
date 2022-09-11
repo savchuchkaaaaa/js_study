@@ -1,0 +1,3 @@
+const arr = [2, 5, 3, 9]
+const result = arr[0] * arr[1] + arr[2] * arr[3]
+console.log(result)
